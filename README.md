@@ -16,3 +16,14 @@ A decentralized NFT marketplace built using:
 ## How to Run
 npm install
 npm start
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+### 🎨 NFT Display
+![NFT](screenshots/nft.png)
+
+### 🚀 Mint NFT
+![Mint](screenshots/mint.png)
